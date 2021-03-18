@@ -1,0 +1,15 @@
+# This is a template config file for Bot
+#
+# Usage: -
+# 1. Rename this file to config.yaml
+# 2. Fill in required Tokens/API keys
+#
+# BOT_TOKEN is required
+#
+BOT_TOKEN: ""
+#
+# DATABASE SECRETS
+DB_USER: ""
+DB_PASS: ""
+DB_HOST: ""
+DB_NAME: ""

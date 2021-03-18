@@ -1,0 +1,4 @@
+temp*
+logs*
+*.log
+config.yaml
